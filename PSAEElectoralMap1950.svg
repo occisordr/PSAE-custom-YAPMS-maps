@@ -4,7 +4,7 @@
    viewbox="0 0 800 600"
    version="1.1"
    id="svg1"
-   sodipodi:docname="PSAEElectoralMap1950 (1).svg"
+   sodipodi:docname="PSAEElectoralMap1950 (2).svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    inkscape:export-filename="testtesttesttest.svg"
    inkscape:export-xdpi="96"
@@ -24,15 +24,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="6.8486324"
-     inkscape:cx="525.94442"
-     inkscape:cy="237.12763"
+     inkscape:zoom="3.2003032"
+     inkscape:cx="384.65106"
+     inkscape:cy="371.21483"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1"
+     inkscape:current-layer="svg1"
      showgrid="false"
      showguides="false" />
   <defs
@@ -589,11 +589,10 @@
        transform="matrix(0.01676706,0.00159805,-0.00168487,0.01590306,409.09531,-27.370604)"
        region="qc"
        inkscape:transform-center-x="-1.9892509"
-       inkscape:transform-center-y="1.7862351" 
+       inkscape:transform-center-y="1.7862351"
        value="3"
        long-name="Quebec"
-       short-name="qc"
-       />
+       short-name="qc" />
   </g>
   <text
      id="WIn"
@@ -630,7 +629,7 @@
      x="395.45065"
      y="228.74718"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4672px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.69658"
-     transform="scale(1.0004983,0.99950194)">25</text>
+     transform="scale(1.0004983,0.99950194)">26</text>
   <text
      id="WIn-3-0"
      x="362.94867"
@@ -651,10 +650,10 @@
      transform="scale(1.0004983,0.99950194)">8</text>
   <text
      id="WIn-5-4-63"
-     x="433.96872"
-     y="378.0343"
+     x="429.284"
+     y="378.97217"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4672px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.69658"
-     transform="scale(1.0004983,0.99950194)">9</text>
+     transform="scale(1.0004983,0.99950194)">10</text>
   <text
      id="WIn-5-4-7"
      x="438.6149"
@@ -678,7 +677,7 @@
      x="487.02475"
      y="221.09367"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6096px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.69658"
-     transform="scale(1.0004983,0.99950194)">NJ 15</text>
+     transform="scale(1.0004983,0.99950194)">NJ 16</text>
   <text
      id="WIn-5-4-7-7-7-5-2"
      x="511.45312"
@@ -720,7 +719,7 @@
      x="431.30615"
      y="253.76552"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4672px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.69658"
-     transform="scale(1.0004983,0.99950194)">12</text>
+     transform="scale(1.0004983,0.99950194)">14</text>
   <text
      id="WIn-5-4-18-6-4"
      x="373.84848"
@@ -804,7 +803,7 @@
      x="68.904808"
      y="123.03149"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4672px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.69658"
-     transform="scale(1.0004983,0.99950194)">9</text>
+     transform="scale(1.0004983,0.99950194)">10</text>
   <text
      id="WIn-5-4-18-6-4-5-3-5-6-9-5-9-8-0"
      x="76.666183"
@@ -870,19 +869,19 @@
      x="362.15268"
      y="479.36923"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4672px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.69658"
-     transform="scale(1.0004983,0.99950194)">20</text>
+     transform="scale(1.0004983,0.99950194)">22</text>
   <text
      id="WIn-5-4-18-6-4-5-3-5-6-9-5-9-8-0-7-4-9"
-     x="453.11655"
+     x="452.1796"
      y="474.69739"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4672px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.69658"
-     transform="scale(1.0004983,0.99950194)">11</text>
+     transform="scale(1.0004983,0.99950194)">14</text>
   <text
      id="WIn-5-4-18-6-4-5-3-5-6-9-5-9-8-0-7-4-8"
-     x="478.26648"
+     x="477.32953"
      y="475.5798"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4672px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.69658"
-     transform="scale(1.0004983,0.99950194)">9</text>
+     transform="scale(1.0004983,0.99950194)">11</text>
   <text
      id="WIn-5-4-18-6-4-5-3-5-6-9-5-9-8-0-7-4-8-0"
      x="559.05365"
